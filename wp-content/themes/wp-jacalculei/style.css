@@ -1,0 +1,21 @@
+/*
+Theme Name: Já Calculei
+Theme URI: https://jacalculei.com.br/
+Author: Lucas Santos
+Author URI: http://gifweb.com.br/
+Description: Tema Wprdpress desenvolvido para a empresa Já Calculei, Contabilidade Online.
+Tags: JaCalculei, contabilidade, online, sp, brasil, ja, calculei.
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jacalculei
+Já Calculei a sua contabilidade online.
+*/
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+ .owl-controls { display: none; }
+}
